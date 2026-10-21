@@ -232,7 +232,7 @@
                       tabindex="0"
                     >
                       <table
-                        class="MuiTable-root css-1ok7ihs-MuiTable-root"
+                        class="MuiTable-root css-t8i9e5-MuiTable-root"
                       >
                         <thead
                           class="MuiTableHead-root css-15wwp11-MuiTableHead-root"
@@ -386,7 +386,7 @@
                 tabindex="0"
               >
                 <table
-                  class="MuiTable-root css-1f5u0uu-MuiTable-root"
+                  class="MuiTable-root css-1bvnr7i-MuiTable-root"
                 >
                   <thead
                     class="MuiTableHead-root css-15wwp11-MuiTableHead-root"

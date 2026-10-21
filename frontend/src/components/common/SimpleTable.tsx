@@ -392,7 +392,7 @@ export default function SimpleTable(props: SimpleTableProps) {
           <Table
             sx={theme => ({
               minWidth: '100%',
-              width: 'auto',
+              width: 'max-content',
               display: 'grid',
               gridTemplateColumns: gridTemplateColumns || '1fr',
               background: theme.palette.background.default,
